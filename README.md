@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![img]()
+![img](https://github.com/sw3nlab/sw3nlab/blob/main/flue-flies.gif)
 <!--
 **sw3nlab/sw3nlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
